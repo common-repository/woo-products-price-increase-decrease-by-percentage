@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Products Price Increase / Decrease by "
+"Percentage\n"
+"POT-Creation-Date: 2018-07-05 22:29+0100\n"
+"PO-Revision-Date: 2018-07-05 22:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: alfiosalanitri <dev@alfiosalanitri.it>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: Core/TraitWcppidbpHelper.php:48 Core/WcppidbpAdmin.php:114
+msgid "Test only"
+msgstr "Solo Test"
+
+#: Core/TraitWcppidbpHelper.php:135
+msgid "No price changed."
+msgstr "Nessun prezzo cambiato"
+
+#: Core/TraitWcppidbpHelper.php:139
+msgid "prices changed: "
+msgstr "prezzi cambiati: "
+
+#: Core/TraitWcppidbpHelper.php:169
+msgid "No Products founds."
+msgstr "Nessun prodotto trovato."
+
+#: Core/TraitWcppidbpHelper.php:174
+msgid "Test Mode Enabled"
+msgstr "Modalità test attivata"
+
+#: Core/TraitWcppidbpHelper.php:175
+msgid "No changes will be applied."
+msgstr "Nessun cambiamento sarà applicato."
+
+#: Core/TraitWcppidbpHelper.php:182
+msgid "Product ID"
+msgstr "ID Prodotto"
+
+#: Core/TraitWcppidbpHelper.php:183
+msgid "Product Name"
+msgstr "Nome Prodotto"
+
+#: Core/TraitWcppidbpHelper.php:184
+msgid "Product Type"
+msgstr "Tipologia Prodotto"
+
+#: Core/TraitWcppidbpHelper.php:185
+msgid "Old Price"
+msgstr "Vecchio Prezzo"
+
+#: Core/TraitWcppidbpHelper.php:185
+msgid "New Price"
+msgstr "Nuovo Prezzo"
+
+#: Core/TraitWcppidbpHelper.php:186
+msgid "Changed"
+msgstr "Cambiati"
+
+#: Core/WcppidbpAdmin.php:54 Core/WcppidbpAdmin.php:119
+msgid "Start"
+msgstr "Avvia"
+
+#: Core/WcppidbpAdmin.php:55 Core/WcppidbpAdmin.php:134
+msgid "Support"
+msgstr "Supporto"
+
+#: Core/WcppidbpAdmin.php:104
+msgid "Percentage"
+msgstr "Percentuale"
+
+#: Core/WcppidbpAdmin.php:109
+msgid "Increase"
+msgstr "Aumenta"
+
+#: Core/WcppidbpAdmin.php:110
+msgid "Decrease"
+msgstr "Diminuisci"
+
+#: Core/WcppidbpAdmin.php:115
+msgid "Check to test. No changes will be applied."
+msgstr "Seleziona per testare. Nessun cambiamento sarà applicato."
+
+#: Core/WcppidbpAdmin.php:132
+#, php-format
+msgid ""
+"If you like this plugin please leave us a <a href=\"%s\" target=\"_blank"
+"\">★★★★★</a> rating. A huge thanks in advance!"
+msgstr ""
+"Se ti piace questo plugin <a href=\"%s\" target=\"_blank\">★★★★★</a> "
+"aggiungi una valutazione. Grazie in anticipo!"
+
+#: Core/WcppidbpAdmin.php:134
+msgid "Credits"
+msgstr "Crediti"
+
+#: Core/WcppidbpAjax.php:50
+msgid "Ajax Request failed."
+msgstr "Richiesta ajax fallita."
+
+#: Core/WcppidbpAjax.php:53
+msgid "Percentage must be a float value."
+msgstr "Percentuale deve essere un numero con virgola"
+
+#: Core/WcppidbpAjax.php:56
+msgid "Choose between increase or decrease."
+msgstr "Scegli tra aumenta o diminuisci"
+
+#: Core/WcppidbpSetup.php:79
+#, php-format
+msgid ""
+"WooCommerce Products Price Increase / Decrease by Percentage requires PHP "
+"version %d+. Your version: %d"
+msgstr ""
+"WooCommerce Products Price Increase / Decrease by Percentage richiede la "
+"versione PHP %d+. La tua versione: %d"
+
+#: Core/WcppidbpSetup.php:97
+#, php-format
+msgid ""
+"%s is not active. WooCommerce Products Price Increase / Decrease by "
+"Percentage requires WooCommerce to be active."
+msgstr ""
+"%s non è attivo. WooCommerce Products Price Increase / Decrease by "
+"Percentage richiede WooCommerce per essere attivato."

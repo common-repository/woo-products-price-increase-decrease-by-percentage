@@ -1,0 +1,18 @@
+{
+    "name": "alfiosalanitri/woocommerce-ppidbp",
+    "description": "Automatically update your store prices for all products at once by percentage.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alfio Salanitri",
+            "email": "dev@alfiosalanitri.it"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WooCommercePPIDBP\\": "Core/"
+        }
+    }
+}
